@@ -1,5 +1,4 @@
 {
-  "ForcedLanguages": "ja-JP",
   "AutofillAddressEnabled": false,
   "AutofillCreditCardEnabled": false,
   "BrowserSignin": 0,
@@ -20,6 +19,10 @@
   "BookmarkBarEnabled": false,
   "PasswordManagerEnabled": false,
   "BrowserLabsEnabled": false,
+  "ForcedLanguages": [
+    "ja-JP",
+    "en-US"
+  ],
   "URLAllowlist": [
     "file:///home/neko/Downloads"
   ],
