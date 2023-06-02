@@ -1,4 +1,5 @@
 {
+  "ForcedLanguages": "ja-JP",
   "AutofillAddressEnabled": false,
   "AutofillCreditCardEnabled": false,
   "BrowserSignin": 0,
