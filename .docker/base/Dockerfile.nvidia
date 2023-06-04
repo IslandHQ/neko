@@ -181,12 +181,9 @@ RUN set -eux; \
     apt-get install -y --no-install-recommends \
         # Google emojis
         fonts-noto-color-emoji \
-        # Japanese fonts
-        fonts-takao-mincho \
-        # Chinese fonts
-        fonts-wqy-zenhei xfonts-intl-chinese xfonts-wqy \
-        # Korean fonts
-        fonts-wqy-microhei; \
+        # CJK fonts
+        fonts-noto-cjk \
+        fonts-noto-cjk-extra; \
     #
     # create a non-root user
     groupadd --gid $USER_GID $USERNAME; \
