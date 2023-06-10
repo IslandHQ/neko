@@ -16,7 +16,7 @@ export const state = () => {
     autoplay: get<boolean>('autoplay', true),
     ignore_emotes: get<boolean>('ignore_emotes', false),
     chat_sound: get<boolean>('chat_sound', true),
-    keyboard_layout: get<string>('keyboard_layout', 'us'),
+    keyboard_layout: get<string>('keyboard_layout', 'jp'),
 
     keyboard_layouts_list: {} as KeyboardLayouts,
 
