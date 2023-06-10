@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=aftorn/neko:base
+ARG BASE_IMAGE=aftorn/neko:nvidia-base
 FROM $BASE_IMAGE
 
 #
