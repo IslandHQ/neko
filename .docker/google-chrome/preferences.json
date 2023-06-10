@@ -44,16 +44,8 @@
         "url": "https://www.amazon.com/Amazon-Video/b?node=2858778011"
       },
       {
-        "title": "VRV",
-        "url": "https://vrv.co/"
-      },
-      {
         "title": "Twitch",
-        "url": "https://www.twitch.tv/"
-      },
-      {
-        "title": "Mixer",
-        "url": "https://mixer.com/"
+        "url": "https://twitch.tv/"
       }
     ]
   },

@@ -12,12 +12,15 @@
   "BrowserAddPersonEnabled": false,
   "BrowserGuestModeEnabled": false,
   "DefaultPopupsSetting": 2,
-  "DownloadRestrictions": 3,
+  "DownloadRestrictions": 1,
   "VideoCaptureAllowed": true,
   "AllowFileSelectionDialogs": false,
   "PromptForDownloadLocation": false,
   "BookmarkBarEnabled": false,
   "PasswordManagerEnabled": false,
+  "ForcedLanguages": [
+    "ja-JP"
+  ],
   "URLAllowlist": [
     "file:///home/neko/Downloads"
   ],
@@ -27,11 +30,21 @@
   ],
   "ExtensionInstallForcelist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx",
-      "mnjggcdmjocbbbhaepdhchncahnbgone;https://clients2.google.com/service/update2/crx"
+      "elfdpkmfllnhhgnicaaeacbilcallpbd;https://clients2.google.com/service/update2/crx",
+      "ponfpcnoihfmfllpaingbgckeeldkhle;https://clients2.google.com/service/update2/crx",
+      "chpodcedholiggcllnmmjlnghllddgmj;https://clients2.google.com/service/update2/crx",
+      "koiphfkghjgmncbkcpfnegnbcbomlchg;https://clients2.google.com/service/update2/crx",
+      "mclkkofklkfljcocdinagocijmpgbhab;https://clients2.google.com/service/update2/crx",
+      "aapbdbdomjkkjkaonfhkkikfgjllcleb;https://clients2.google.com/service/update2/crx"
   ],
   "ExtensionInstallAllowlist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm",
-      "mnjggcdmjocbbbhaepdhchncahnbgone"
+      "elfdpkmfllnhhgnicaaeacbilcallpbd",
+      "ponfpcnoihfmfllpaingbgckeeldkhle",
+      "chpodcedholiggcllnmmjlnghllddgmj",
+      "koiphfkghjgmncbkcpfnegnbcbomlchg",
+      "mclkkofklkfljcocdinagocijmpgbhab",
+      "aapbdbdomjkkjkaonfhkkikfgjllcleb"
   ],
   "ExtensionInstallBlocklist": [
       "*"

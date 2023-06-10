@@ -10,7 +10,7 @@ RUN set -eux; \
     # and nvidia base is ubuntu not debian
     add-apt-repository ppa:system76/pop; \
     apt-get update; \
-    apt-get install -y --no-install-recommends unzip chromium openbox; \
+    apt-get install -y --no-install-recommends unzip chromium chromium-common chromium-l10n chromium-sandbox openbox; \
     #
     # install widevine module
     CHROMIUM_DIR="/usr/lib/chromium"; \
