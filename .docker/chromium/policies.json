@@ -12,7 +12,7 @@
   "BrowserAddPersonEnabled": false,
   "BrowserGuestModeEnabled": false,
   "DefaultPopupsSetting": 2,
-  "DownloadRestrictions": 3,
+  "DownloadRestrictions": 1,
   "VideoCaptureAllowed": true,
   "AllowFileSelectionDialogs": false,
   "PromptForDownloadLocation": false,
