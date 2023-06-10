@@ -34,14 +34,18 @@
       "elfdpkmfllnhhgnicaaeacbilcallpbd;https://clients2.google.com/service/update2/crx",
       "ponfpcnoihfmfllpaingbgckeeldkhle;https://clients2.google.com/service/update2/crx",
       "chpodcedholiggcllnmmjlnghllddgmj;https://clients2.google.com/service/update2/crx",
-      "koiphfkghjgmncbkcpfnegnbcbomlchg;https://clients2.google.com/service/update2/crx"
+      "koiphfkghjgmncbkcpfnegnbcbomlchg;https://clients2.google.com/service/update2/crx",
+      "mclkkofklkfljcocdinagocijmpgbhab;https://clients2.google.com/service/update2/crx",
+      "aapbdbdomjkkjkaonfhkkikfgjllcleb;https://clients2.google.com/service/update2/crx"
   ],
   "ExtensionInstallAllowlist": [
       "cjpalhdlnbpafiamejdnhcphjbkeiagm",
       "elfdpkmfllnhhgnicaaeacbilcallpbd",
       "ponfpcnoihfmfllpaingbgckeeldkhle",
       "chpodcedholiggcllnmmjlnghllddgmj",
-      "koiphfkghjgmncbkcpfnegnbcbomlchg"
+      "koiphfkghjgmncbkcpfnegnbcbomlchg",
+      "mclkkofklkfljcocdinagocijmpgbhab",
+      "aapbdbdomjkkjkaonfhkkikfgjllcleb"
   ],
   "ExtensionInstallBlocklist": [
       "*"
